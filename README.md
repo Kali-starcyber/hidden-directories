@@ -11,9 +11,14 @@ HiddenDirectories (by [Kali-starcyber](https://github.com/Kali-starcyber)) is a 
 
 ---
 
-## 🔧 How to Use
+## 🔧 How to Download
 
 1. **Clone or copy the repo**
 ```bash
 git clone https://github.com/Kali-starcyber/hiddendirectories.git
 cd hiddendirectories
+
+## **🔧 How to Use**
+hiddendirectories https://example.com/
+hiddendirectories https://example.com/admin/
+hiddendirectories https://example.com/(any-directory)
