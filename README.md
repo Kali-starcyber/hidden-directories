@@ -18,7 +18,6 @@ HiddenDirectories (by [Kali-starcyber](https://github.com/Kali-starcyber)) is a 
 git clone https://github.com/Kali-starcyber/hiddendirectories.git
 cd hiddendirectories
 
----
 
 ## **🔧 How to Use**
 python3 hiddendirectories.py https://example.com/
